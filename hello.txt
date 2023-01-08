@@ -5,7 +5,7 @@ hello zhouxuan! hello git!
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
-hello zhouxuan! hello git!  master test
+hello zhouxuan! hello git!  
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
@@ -13,4 +13,4 @@ hello zhouxuan! hello git!
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
 hello zhouxuan! hello git!
-hello zhouxuan! hello git!   hot-fix test
+hello zhouxuan! hello git! master test  
